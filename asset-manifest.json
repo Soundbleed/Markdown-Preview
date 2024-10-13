@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Soundbleed/Markdown-Preview.git/static/css/main.8c4d6fe3.css",
-    "main.js": "/Soundbleed/Markdown-Preview.git/static/js/main.6eb09e14.js",
-    "static/js/453.54de07dc.chunk.js": "/Soundbleed/Markdown-Preview.git/static/js/453.54de07dc.chunk.js",
-    "index.html": "/Soundbleed/Markdown-Preview.git/index.html",
-    "main.8c4d6fe3.css.map": "/Soundbleed/Markdown-Preview.git/static/css/main.8c4d6fe3.css.map",
-    "main.6eb09e14.js.map": "/Soundbleed/Markdown-Preview.git/static/js/main.6eb09e14.js.map",
-    "453.54de07dc.chunk.js.map": "/Soundbleed/Markdown-Preview.git/static/js/453.54de07dc.chunk.js.map"
+    "main.css": "/Markdown-Preview/static/css/main.8c4d6fe3.css",
+    "main.js": "/Markdown-Preview/static/js/main.e0d2c625.js",
+    "static/js/453.54de07dc.chunk.js": "/Markdown-Preview/static/js/453.54de07dc.chunk.js",
+    "index.html": "/Markdown-Preview/index.html",
+    "main.8c4d6fe3.css.map": "/Markdown-Preview/static/css/main.8c4d6fe3.css.map",
+    "main.e0d2c625.js.map": "/Markdown-Preview/static/js/main.e0d2c625.js.map",
+    "453.54de07dc.chunk.js.map": "/Markdown-Preview/static/js/453.54de07dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c4d6fe3.css",
-    "static/js/main.6eb09e14.js"
+    "static/js/main.e0d2c625.js"
   ]
 }
